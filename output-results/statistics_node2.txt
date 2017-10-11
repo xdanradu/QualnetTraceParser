@@ -1,0 +1,32 @@
+------------------------------------------------------------
+NODE: 2
+------------------------------------------------------------
+UDP Level
+------------------------------------------------------------
+       Total number of UDP routing packets receive:         495
+ Total size of UDP routing packets receive (Bytes):     29120.0
+          Total number of UDP routing packets send:         180
+    Total size of UDP routing packets send (Bytes):     11496.0
+       Total number of UDP traffic packets receive:       17552
+    Total size of UDP traffic packets receive (MB):   33.194546
+          Total number of UDP traffic packets drop:           0
+       Total size of UDP traffic packets drop (MB):         0.0
+       Total number of UDP traffic packets enqueue:           0
+    Total size of UDP traffic packets enqueue (MB):         0.0
+       Total number of UDP traffic packets dequeue:           0
+    Total size of UDP traffic packets dequeue (MB):         0.0
+------------------------------------------------------------
+Ipv4 Level
+------------------------------------------------------------
+      Total number of Ipv4 routing packets receive:         495
+Total size of Ipv4 routing packets receive (Bytes):     39020.0
+         Total number of Ipv4 routing packets send:         180
+   Total size of Ipv4 routing packets send (Bytes):     15096.0
+      Total number of Ipv4 traffic packets receive:       17552
+   Total size of Ipv4 traffic packets receive (MB):   33.896626
+         Total number of Ipv4 traffic packets drop:           0
+      Total size of Ipv4 traffic packets drop (MB):         0.0
+      Total number of Ipv4 traffic packets enqueue:         292
+   Total size of Ipv4 traffic packets enqueue (MB):    0.028032
+      Total number of Ipv4 traffic packets dequeue:         292
+   Total size of Ipv4 traffic packets dequeue (MB):    0.028032
